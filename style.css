@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: chartreuse;
+}
+.mynavbar{
+    position:sticky;
+    z-index: 99999;
+    top:0;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+}
+marquee{
+    direction:right;
+}
+#SchoolLife iframe{
+    margin-top: 10px
+}
